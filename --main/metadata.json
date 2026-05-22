@@ -1,0 +1,8 @@
+{
+  "name": "Arknights HUD Portfolio",
+  "description": "A high-definition, interactive HUD-style creative portfolio and resume inspired by Arknights and high-tech aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
